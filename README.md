@@ -19,3 +19,11 @@
 - 根据本地数据库环境，修改数据库的连接信息 src/main/resources/application.properties 16-19行
 
 - 启动项目，http://localhost:8080/taskmis  管理员账号/密码： admin/admin  前端用户/密码： 13397991899/123456 或者查看huiyuan表
+![0](https://github.com/Learning-Journey-Treasures/bysj-013/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-013/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-013/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-013/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-013/blob/master/5.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-013/blob/master/6.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-013/blob/master/7.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-013/blob/master/8.png)
